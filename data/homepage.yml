@@ -6,8 +6,8 @@ homepage:
 showcase:
   enable: true
   title: "Hello, I’m Nem."
-  subtitle: "Music dude"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  subtitle: "Music Producer"
+  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>.Hello! I am a composer, producer and sound designer who has worked with over 20 artists over the past 4 years covering genres which include but are not limited to, indie pop, acoustic, orchestral and house. My personal interests are video game and film scoring and I have had the pleasure of working with industry men and artists associated with big names in the Indian Music industry like ZeeMusic and Tseries as well as international labels."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
