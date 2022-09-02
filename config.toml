@@ -65,9 +65,7 @@ theme = "raditian-free-hugo-theme"
 
   [params.logo]
   text1 = "NEM"
-   x: "nemaweb/public/img/general/nem-logo_blk.png"
-   _2x: "nemaweb/public/img/general/nem-logo_blk@2x.png"
-   alt: "Nem Logo"
+   
   [params.footer]
       copyright = "© Nem Shah. All rights reserved."
       [params.footer.radity_logo]
