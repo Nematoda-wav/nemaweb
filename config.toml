@@ -66,11 +66,11 @@ theme = "raditian-free-hugo-theme"
   [params.logo]
    # text1 = "Andreas"
    # text2 = "Ellure"
-   x: "https://imgur.com/0FBdvl4"
-   _2x: "https://imgur.com/0FBdvl4"
+   x: "nemaweb/public/img/general/nem-logo_blk.png"
+   _2x: "nemaweb/public/img/general/nem-logo_blk@2x.png"
    alt: "Nem Logo"
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Nem Shah. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
