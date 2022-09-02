@@ -27,12 +27,12 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "About"
-  URL = "about"
+  URL = "#about"
   weight = 2
 
   [[menu.header]]
   name = "Portfolio"
-  URL = "portfolio"
+  URL = "#portfolio"
   weight = 2.9
 
   [[menu.header]]
@@ -64,9 +64,12 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
-
+   # text1 = "Andreas"
+   # text2 = "Ellure"
+    - logo:
+        x: "https://imgur.com/0FBdvl4"
+        _2x: "https://imgur.com/0FBdvl4"
+      alt: "Nem Logo"
   [params.footer]
       copyright = "© Raditian. All rights reserved."
       [params.footer.radity_logo]
